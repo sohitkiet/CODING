@@ -3,7 +3,7 @@ int linearsearch(int[],int);
 int main(){
     int arr[]={2,7,5,9,20,10};
     int item,i;
-    printf("enter the value you want search");
+    printf("enter the value you wantfdd search");
     scanf("%d",&item);
     i=linearsearch(arr,item);
     printf("value of i: %d",i);
