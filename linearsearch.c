@@ -3,7 +3,7 @@ int linearsearch(int [],int);
 int main(){
 int i,item,j;
 int arr[10];
-printf("enter the element of array");
+printf("enter the element ofddfdsf array");
 for(i=0;i<10;i++){
 scanf("%d",&arr[i]);
 }
